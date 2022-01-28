@@ -1,0 +1,19 @@
+.container2{
+    display: grid;
+    grid-template-columns: 45% 55%;
+}
+
+
+
+.container3{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+button{
+    background-color: rgb(184, 19, 115);
+    justify-content: center;
+    margin-left: 110px;
+    width: 40%;
+    height: 3rem;
+}
